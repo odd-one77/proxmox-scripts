@@ -10,6 +10,7 @@
 # instead of the official community-scripts/ProxmoxVE repo.
 source <(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVED/main/misc/build.func)
 
+
 # Application Configuration
 APP="Stasharr-Portal"
 var_tags="${var_tags:-media;whisparr;stash}"
